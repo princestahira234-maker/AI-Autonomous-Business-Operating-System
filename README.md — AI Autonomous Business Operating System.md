@@ -14,7 +14,7 @@ https://autonoma-ops.lovable.app/
 
 ### FastAPI Backend / API Documentation
 
-https://tanzeelkhan.pythonanywhere.com/docs?utm_source=chatgpt.com#/default/predict_revenue_predict_revenue_post
+https://tanzeelkhan.pythonanywhere.com/docs?utm_source=chatgpt.com
 
 ---
 
